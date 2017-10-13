@@ -1189,6 +1189,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [eml](https://github.com/zambal/eml) - Library for writing and manipulating (HTML) markup in Elixir.
 * [exgen](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 * [expug](https://github.com/rstacruz/expug) - Pug templates for Elixir.
+* [hyper_ex](https://github.com/sebastiandedeyne/hyper_ex) - A HyperScript clone written in Elixir
 * [mustache](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 * [mustachex](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
 * [templates](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
